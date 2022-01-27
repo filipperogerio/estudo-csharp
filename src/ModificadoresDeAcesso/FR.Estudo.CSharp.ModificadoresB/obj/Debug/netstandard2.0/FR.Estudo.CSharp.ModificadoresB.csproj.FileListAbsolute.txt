@@ -1,0 +1,12 @@
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.deps.json
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.dll
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.pdb
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.dll
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.pdb
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.AssemblyInfo.cs
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.csproj.CopyComplete
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.dll
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresB\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresB.pdb

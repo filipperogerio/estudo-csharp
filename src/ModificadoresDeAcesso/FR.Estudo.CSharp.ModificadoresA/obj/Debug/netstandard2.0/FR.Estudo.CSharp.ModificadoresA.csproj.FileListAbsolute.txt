@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.deps.json
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.dll
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\bin\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.pdb
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.AssemblyInfo.cs
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.dll
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\ModificadoresDeAcesso\FR.Estudo.CSharp.ModificadoresA\obj\Debug\netstandard2.0\FR.Estudo.CSharp.ModificadoresA.pdb

@@ -1,0 +1,13 @@
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\bin\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.exe
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\bin\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.deps.json
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\bin\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.runtimeconfig.json
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\bin\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.runtimeconfig.dev.json
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\bin\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.dll
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\bin\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.pdb
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\obj\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\obj\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\obj\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.AssemblyInfo.cs
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\obj\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\obj\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.dll
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\obj\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.pdb
+C:\Users\filip\source\repos\FR.Estudo.CSharp\src\DesignPatterns\FR.Estudo.CSharp.DesignPatterns\obj\Debug\netcoreapp3.1\FR.Estudo.CSharp.DesignPatterns.genruntimeconfig.cache
